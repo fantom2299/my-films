@@ -1,0 +1,53 @@
+
+
+
+:root {
+    --primary-color: #22254b;
+    --secondary-color: #373b69;
+}
+
+
+body {
+    background-color: var(--primary-color);
+    font-family: Poppins, sans-serif;
+}
+
+
+.navbar-header a {
+    color: white;
+}
+
+
+.text-center {
+    color: blueviolet;
+}
+
+
+.container_results {
+    margin-top: 40px;
+}
+
+
+#movies {
+    margin: 0 60px 0 60px;
+}
+
+
+.well {
+    color: aquamarine;
+    margin-top: 40px
+}
+
+
+.well a {
+    color: aquamarine;
+}
+
+
+h5 {
+    margin-top: 10px;
+}
+
+.see-more {
+    cursor: pointer;
+}
